@@ -1,0 +1,101 @@
+product_name,product_id,category
+COCA COLA 500ML_,1001001,Beverages
+Flour 2kg,1005001,Groceries
+Coca Cola 500ml,1001001,InvalidCategory
+FLOUR 2KG70,1005001,
+INSTANT COFFEE 200G_,1008002,Beverages
+instant coffee 100g_,-99999,Beverages
+YOGURT PLAIN 500ML93,1007001,Dairy
+Sprite 500ml,1001003,InvalidCategory
+Flour 1kg,1005002,Groceries
+FLOUR 2KG,1005001,Groceries
+rice 5kg,-99999,
+tea leaves 250g,ID,Beverages
+CHEDDAR CHEESE 250G,1006001,Dairy
+Sprite 500ml,1001003,
+Sugar 500g_,1003002,Groceries
+Flour 2kg_,1005001,InvalidCategory
+RICE 1KG,1004002,InvalidCategory
+sprite 500ml_,1001003,Beverages
+YOGURT PLAIN 250ML,1007002,
+Flour 2kg69,1005001,Groceries
+instant coffee 100g,1008001,Beverages
+FLOUR 2KG,1005001,Groceries
+Cheddar Cheese 250g28,1006001,Dairy
+Yogurt Plain 250ml,1007002,Dairy
+YOGURT PLAIN 250ML,1007002,Dairy
+COCA COLA 500ML,1001001,Beverages
+SUGAR 1KG_,1003001,Groceries
+Yogurt Plain 250ml,ID,Dairy
+Sugar 1kg,1003001,Groceries
+yogurt plain 250ml95,1007002,InvalidCategory
+SPRITE 500ML,1001003,Beverages
+TEA LEAVES 250G,PROD2278,
+INSTANT COFFEE 100G,1008001,Beverages
+sugar 500g,1003002,
+Rice 1kg6,1004002,Groceries
+Instant Coffee 200g,1008002,
+FLOUR 2KG_,1005001,Groceries
+Sprite 500ml77,ID,Beverages
+INSTANT COFFEE 100G,1008001,InvalidCategory
+sprite 500ml,1001003,Beverages
+cooking oil 1l_,1002001,Groceries
+cheddar cheese 500g,1006002,Dairy
+PEPSI 500ML9,1001002,Beverages
+Rice 5kg_,ID,Groceries
+CHEDDAR CHEESE 250G,1006001,InvalidCategory
+Rice 5kg,1004001,Groceries
+cheddar cheese 500g,1006002,InvalidCategory
+Instant Coffee 100g,1008001,
+COOKING OIL 1L_,1002001,Groceries
+Flour 1kg,1005002,InvalidCategory
+Yogurt Plain 250ml,1007002,InvalidCategory
+yogurt plain 500ml,1007001,
+INSTANT COFFEE 100G,1008001,Beverages
+Tea Leaves 250g,1009001,Beverages
+rice 1kg,1004002,
+Cooking Oil 500ml3,1002002,Groceries
+YOGURT PLAIN 250ML,PROD8476,Dairy
+pepsi 500ml60,1001002,Beverages
+Tea Leaves 250g,1009001,Beverages
+Tea Leaves 500g,1009002,InvalidCategory
+YOGURT PLAIN 500ML,1007001,
+Cheddar Cheese 500g_,1006002,Dairy
+RICE 1KG_,1004002,
+CHEDDAR CHEESE 250G,-99999,Dairy
+SPRITE 500ML,1001003,InvalidCategory
+FLOUR 1KG_,1005002,Groceries
+Coca Cola 500ml91,123.45,Beverages
+YOGURT PLAIN 250ML,1007002,Dairy
+INSTANT COFFEE 100G,1008001,Beverages
+TEA LEAVES 500G,1009002,Beverages
+COOKING OIL 1L,1002001,
+flour 1kg,1005002,Groceries
+tea leaves 500g,-99999,Beverages
+RICE 5KG45,1004001,InvalidCategory
+FLOUR 1KG,1005002,Groceries
+Yogurt Plain 250ml,1007002,Dairy
+Coca Cola 500ml71,1001001,InvalidCategory
+yogurt plain 250ml_,1007002,InvalidCategory
+Coca Cola 500ml_,1001001,Beverages
+RICE 1KG,PROD3430,Groceries
+RICE 1KG,1004002,Groceries
+TEA LEAVES 250G,1009001,InvalidCategory
+FLOUR 1KG_,PROD2351,Groceries
+SUGAR 1KG37,ID,Groceries
+Sugar 500g,1003002,Groceries
+instant coffee 100g,ID,
+TEA LEAVES 500G_,-99999,Beverages
+Sugar 1kg_,1003001,
+Sprite 500ml,PROD8465,InvalidCategory
+Coca Cola 500ml,1001001,Beverages
+Sugar 500g,1003002,InvalidCategory
+pepsi 500ml_,123.45,Beverages
+sprite 500ml,1001003,Beverages
+COOKING OIL 1L,1002001,
+SUGAR 500G,1003002,Groceries
+RICE 1KG,1004002,Groceries
+flour 1kg,1005002,Groceries
+Flour 2kg,123.45,Groceries
+yogurt plain 500ml,1007001,Dairy
+Sprite 500ml_,1001003,Beverages
