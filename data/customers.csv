@@ -1,201 +1,37 @@
-customer_id,customer_name,city
-789221,Info Stores,Polokwane 11
-789301,,durban
-789121,Coolblue 96,Cape Town
-789501,Logic Stores,port elizabeth-10
-789201,coolblue,port elizabeth
-789422,viveks stores,
-789603,Rel Fresh,East London
-1000000.0,,polokwane
-789201,rel fresh,
-789303,,INVALID_CITY20499
-123.45,,INVALID_CITY55754
-789520,Lotus Mart,
-789902,Viveks Stores,East London
-789522,Elite Mart_74,INVALID_CITY58916
-789101,Viveks Stores,durban1
-ID,elite mart98,Pretoria
-789301,viveks stores,East London1
-789420,Acclaimed Stores7,Polokwane
-789420,,polokwane
-789303,,INVALID_CITY65781
-789122,Elite Mart,port elizabeth10
-789420,,bloemfontein
-789202,Acclaimed Stores,East London
-789201,INVALID_NAME,Kimberley
-789221,vijay stores,East London
-789903,Sorefoz Mart,Durban
--99999,PROPEL MART,Cape Town
-789622,Elite Mart,Polokwane
-789420,Coolblue,Kimberley
-789520,expression stores,Johannesburg
-1000000.0,,Polokwane
-789320,propel mart,
-789103,atlas stores,east london
-789503,,Pretoria7
-123.45,Elite Mart,INVALID_CITY22171
-abcd,Propel Mart,nelspruit-15
-789603,Vijay Stores,East London
-abcd,rel fresh,east london
-789501,INVALID_NAME,polokwane7
-789521,Viveks Stores,Pretoria10
-789221,atlas stores,INVALID_CITY21187
-abcd,elite mart,bloemfontein-6
-789202,sorefoz mart,kimberley
--99999,Sorefoz Mart,pretoria 14
-789603,Elite Mart,East London
-789702,EXPERT MART,cape town
-abcd,ELITE MART 29,nelspruit 5
-789621,,Polokwane
-789501,vijay stores,Polokwane
-789220,Rel Fresh8,Cape Town
-123.45,,INVALID_CITY37646
-123.45,LOTUS MART 36,pretoria
-789522,atlas stores,east london
-789402,Atlas Stores,johannesburg
-789902,VIVEKS STORES,port elizabeth
-789320,Propel Mart_95,
-789622,Logic Stores,east london
-789422,CHIPTEC STORES,INVALID_CITY48680
-789703,Expert Mart,Kimberley
-789401,atlas stores 38,INVALID_CITY22602
-789601,Expert Mart,durban3
-1000000.0,Elite Mart,East London
-789202,Rel Fresh,
-789703,elite mart,
-1000000.0,logic stores,kimberley
-123.45,,
-789521,VIJAY STORES_14,Port Elizabeth
-123.45,Chiptec Stores,Johannesburg-2
-789420,Acclaimed Stores,
-789401,,pretoria
-789421,REL FRESH,Kimberley
-abcd,REL FRESH,Nelspruit
-789622,chiptec stores,
-789720,EXPERT MART 95,
-789121,Atlas Stores24,kimberley
-789520,viveks stores,kimberley
-789603,propel mart,bloemfontein
-789101,chiptec stores,east london
-789122,coolblue 13,INVALID_CITY76623
--99999,propel mart_11,
-789220,Expert Mart,port elizabeth
-789220,chiptec stores,johannesburg
-789621,Vijay Stores,East London
-789622,Logic Stores,johannesburg-9
-789102,LOGIC STORES,Polokwane
-789122,logic stores,cape town
-789702,Expression Stores,Polokwane
-789422,,kimberley
-123.45,Acclaimed Stores,Pretoria-9
-abcd,Propel Mart_56,east london
-789202,Chiptec Stores,
-123.45,Rel Fresh,east london
-789903,atlas stores,port elizabeth
-789702,Expression Stores,Pretoria
-789220,COOLBLUE,port elizabeth
-789303,rel fresh 85,Port Elizabeth
-789702,Atlas Stores,nelspruit
-789622,elite mart,
-789201,Sorefoz Mart,Durban
-789422,LOGIC STORES,Pretoria
-abcd,SOREFOZ MART,johannesburg18
-789301,elite mart,Kimberley 11
-789102,Lotus Mart,Nelspruit
-789101,acclaimed stores,Nelspruit
-789720,Sorefoz Mart,east london
-789122,logic stores,Cape Town
-789122,,Durban
-789321,Logic Stores,Port Elizabeth
-789220,SOREFOZ MART,Bloemfontein
-789520,Info Stores,
--99999,Expert Mart,nelspruit
-789503,,bloemfontein
-789720,Atlas Stores,pretoria
-789702,Atlas Stores,kimberley
--99999,Chiptec Stores_42,cape town 9
-789420,,Port Elizabeth
-789103,atlas stores,
-789601,Sorefoz Mart65,INVALID_CITY30417
-789103,CHIPTEC STORES,INVALID_CITY72240
-789421,Chiptec Stores,polokwane
-789201,Atlas Stores,INVALID_CITY78247
-789903,Expert Mart,Port Elizabeth
-123.45,elite mart,Pretoria 2
-123.45,vijay stores,durban 10
--99999,lotus mart 74,Kimberley
-789902,Expert Mart,Johannesburg
-789402,chiptec stores,nelspruit
-789720,Elite Mart,Nelspruit-11
-789522,Propel Mart,INVALID_CITY34724
-abcd,vijay stores,Kimberley
-123.45,Elite Mart,Johannesburg
-abcd,coolblue 50,Port Elizabeth
-789622,INVALID_NAME,port elizabeth
-789603,Expert Mart,Durban-9
-789401,Viveks Stores,pretoria
-789521,expert mart,Polokwane
-789501,Coolblue,east london
-789421,,cape town
-789420,Chiptec Stores,
-1000000.0,logic stores,Nelspruit
-1000000.0,COOLBLUE,durban
-789622,Atlas Stores,Port Elizabeth
--99999,expression stores_62,Polokwane
-789101,Expression Stores21,cape town
-abcd,atlas stores,INVALID_CITY71658
-789622,Vijay Stores,pretoria2
-789301,LOGIC STORES,Johannesburg2
-1000000.0,ELITE MART,Nelspruit 18
-789121,Elite Mart,Nelspruit
-789621,rel fresh_55,Cape Town 1
-789601,vijay stores 74,bloemfontein
-789121,Propel Mart_80,Kimberley
-abcd,sorefoz mart,Kimberley-16
-789520,,Cape Town 18
-789903,,Kimberley
-789320,VIVEKS STORES,Nelspruit
-789621,ATLAS STORES,
-789403,Coolblue,port elizabeth
-789402,vijay stores,Nelspruit 13
-789201,Lotus Mart,polokwane
-789622,CHIPTEC STORES,East London
-789601,elite mart,INVALID_CITY31954
-789421,Viveks Stores_15,
-123.45,lotus mart97,East London7
-789422,ACCLAIMED STORES,johannesburg
-789702,ATLAS STORES 41,east london 19
-789401,coolblue,Pretoria
-789903,logic stores,Kimberley
-789522,,INVALID_CITY22842
-789320,rel fresh,Kimberley-5
-789720,,Nelspruit-7
-789301,Expert Mart,INVALID_CITY15091
--99999,COOLBLUE,INVALID_CITY62618
-789420,CHIPTEC STORES,bloemfontein
-789301,logic stores,Nelspruit
-789103,Rel Fresh,INVALID_CITY82595
-789622,acclaimed stores_6,cape town
--99999,Lotus Mart,Cape Town
-abcd,Sorefoz Mart,
-ID,PROPEL MART48,bloemfontein
-789721,Vijay Stores_15,polokwane-13
-789721,Rel Fresh,
-789202,acclaimed stores,polokwane
-789122,INVALID_NAME,cape town-6
--99999,Lotus Mart10,east london8
-789201,EXPRESSION STORES,nelspruit-15
-789603,expert mart,INVALID_CITY16448
--99999,expert mart,cape town
-1000000.0,info stores,Nelspruit11
-789422,expression stores,Nelspruit
-789421,expression stores_74,durban
-789903,INVALID_NAME,Durban 2
-789203,info stores,port elizabeth9
-789420,Expert Mart,bloemfontein
--99999,INVALID_NAME,pretoria 17
-789422,Expert Mart,INVALID_CITY81882
-789220,Atlas Stores19,johannesburg-1
-789402,Viveks Stores,Johannesburg 14
-789503,viveks stores,INVALID_CITY47143
-789501,Lotus Mart,Kimberley
+CUSTOMER_ID,customer.name,city
+789201.0,Local Market,Worcester
+789202.0,,Stellenbosch
+789203.0,  Market Plus  ,Nelspruit
+789301.0,Value Store,Grahamstown
+789303.0,Food World,Stellenbosch
+789101.0,Community Market#@$,East London
+789102.0,  Fresh & Quick  #@$,Pietermaritzburg
+789103.0,Star Market,  Klerksdorp
+789121.0,CENTRAL STORE,Pietermaritzburg
+789122.0,Quality Mart,George
+789220.0,Sunshine Supermarket,  Stellenbosch
+789221.0,,Durban
+789320.0,Family Grocers,Paarl
+789321.0,Easy Shop,Worcester#@$
+789401.0,Metro Market,none#@$
+789402.0,Corner Shop Plus#@$,George
+789403.0,The Food Shop,  Nelspruit
+789420.0,Retail Express#@$,Kimberley
+789421.0,  Village Store  ,Upington
+789422.0,Riverside Market,  Paarl
+789501.0,Town Market,Bloemfontein#@$
+789503.0,Fresh Finds,Polokwane
+789520.0,Smart Buy,GEORGE
+789521.0,Daily Fresh,PIETERMARITZBURG
+789522.0,  Good Price Store  #@$,Pretoria#@$
+789601.0,,Nelspruit
+789603.0,Urban Market,  Bloemfontein
+789702.0,Prime Groceries,George#@$
+789703.0,Food Fair#@$,EAST LONDON#@$
+789621.0,Green Grocers,  Cape Town
+789622.0,Budget Foods,Nelspruit
+789720.0,Bargain Basket#@$,Klerksdorp
+789721.0,  Fresh Choice  ,Johannesburg
+789902.0,Quick Mart,  JOHANNESBURG
+789903.0,Super Save,Paarl
+,,Durban
